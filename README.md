@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putul Singh</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Putul Singh , an aspiring develope driven to create innovative solutions. Join me on my journey strive to make a meaningful impact through my projects.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm Putul Singh , an aspiring developer driven to create innovative solutions. Join me on my journey strive to make a meaningful impact through my projects.</h3>
 
 - 📫 How to reach me **putul3814@gmail.com**
 

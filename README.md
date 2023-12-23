@@ -22,9 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putul03&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=putul03&theme=algolia" alt="GitHub Trophies" />
-</p>
 
 
 <p align="center">Let's connect and build something awesome together! 😊</p>
